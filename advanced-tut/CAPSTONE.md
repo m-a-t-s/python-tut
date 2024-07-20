@@ -1,4 +1,4 @@
-Sure, here is a detailed solution for the Capstone Project: E-commerce Recommendation System. This solution includes steps for data collection and preprocessing, implementing the recommendation algorithm, developing the API with Flask, optimizing for concurrency and parallelism, and deployment.
+Capstone Project: E-commerce Recommendation System. This solution includes steps for data collection and preprocessing, implementing the recommendation algorithm, developing the API with Flask, optimizing for concurrency and parallelism, and deployment.
 
 ---
 
