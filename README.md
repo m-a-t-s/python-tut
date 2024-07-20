@@ -1916,7 +1916,5 @@ Create a to-do list application using Tkinter. The program should:
 1. Add tasks.
 2. Remove tasks.
 3. Mark tasks as completed.
-4. Save tasks to a
-
- file.
+4. Save tasks to a file.
 5. Load tasks from a file.
