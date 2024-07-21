@@ -1,7 +1,3 @@
-Sure, I can add more examples and provide more detailed explanations to further enhance the content.
-
----
-
 ## Basic Conditionals
 
 **Q1.1: Write a Python function that checks if a number is positive, negative, or zero.**
@@ -581,7 +577,3 @@ print(get_recommendations(1, 5))  # Output: List of recommended product IDs
 - **Data Preparation:** Converts user-item interactions into a sparse matrix.
 - **Model Training:** Uses Nearest Neighbors to find similar users/products.
 - **Recommendation Function:** Retrieves product recommendations based on user similarity.
-
----
-
-These questions and answers provide a comprehensive journey from basic to advanced Python concepts, each designed to deepen your understanding and skills.
